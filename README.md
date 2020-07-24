@@ -1,1 +1,3 @@
 # Statistics-in-Python-Specialization
+
+[![GitHub issues](https://img.shields.io/github/issues/HarshaVardhanMA/Statistics-in-Python-Specialization)](https://github.com/HarshaVardhanMA/Statistics-in-Python-Specialization/issues) [![GitHub forks](https://img.shields.io/github/forks/HarshaVardhanMA/Statistics-in-Python-Specialization)](https://github.com/HarshaVardhanMA/Statistics-in-Python-Specialization/network) [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FHarshaVardhanMA%2FStatistics-in-Python-Specialization)
